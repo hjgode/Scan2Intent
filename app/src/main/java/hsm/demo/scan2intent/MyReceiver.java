@@ -11,7 +11,7 @@ import java.util.Arrays;
 
 /**
  * add to manifest for application:
- * 
+ *
  <receiver android:name=".MyReceiver">
  <intent-filter>
  <action android:name="hsm.RECVRBI1" />
